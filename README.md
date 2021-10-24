@@ -4,7 +4,7 @@ Website-http://instapresent.tech
 
 This tool was built by Tanay and Gaurab
 
-For more info, check out [our devpost](https://devpost.com/software/imprompptx-ultmna)
+For more info, check out [our devpost](https://devpost.com)
 
 # How to run
 
@@ -20,8 +20,6 @@ mkvirtualenv hack --python 3.6
 source ~/hack/bin/activate
 pip install -r ~/impromPPTX/reqs.txt
 ```
-
-*NOTE: we may be missing some requirements. This is most likely not up to date.*
 
 Then, open up tmux and run two sessions:
 
