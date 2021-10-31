@@ -4,7 +4,7 @@ Website-http://instapresent1.000webhostapp.com or http://instapresent.tech
 
 This tool was built by Tanay and Gaurab
 
-For more info, check out [our devpost](https://devpost.com/software/instapresentm)
+For more info, check out [our devpost](https://devpost.com/software/instapresent)
 
 # How to run
 
