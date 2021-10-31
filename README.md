@@ -1,8 +1,10 @@
-Website-http://instapresent1.000webhostapp.com or http://instapresent.tech
+CalHacks 8.0 - 3rd Place Winner
+
+Website-http://instapresent1.000webhostapp.com
 
 # InstaPresent
 
-This tool was built by Tanay and Gaurab
+This tool was built by Tanay
 
 For more info, check out [our devpost](https://devpost.com/software/instapresent)
 
